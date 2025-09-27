@@ -1,0 +1,9 @@
+[submodule "allweatherfi-contracts"]
+	path = allweatherfi-contracts
+	url = git@github.com:LovishB/allweatherfi-contracts.git
+[submodule "allweatherfi-backend"]
+	path = allweatherfi-backend
+	url = git@github.com:LovishB/allweatherfi-backend.git
+[submodule "allweatherfi-frontend"]
+	path = allweatherfi-frontend
+	url = git@github.com:LovishB/allweatherfi-frontend.git
